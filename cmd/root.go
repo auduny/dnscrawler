@@ -5,11 +5,11 @@ import (
 	"os"
 	"strings"
 
-	"dnscrawler/pkg/dns"
-	"dnscrawler/pkg/domain"
-	"dnscrawler/pkg/output"
-	"dnscrawler/pkg/provider"
-	"dnscrawler/pkg/whois"
+	"github.com/auduny/dnscrawler/pkg/dns"
+	"github.com/auduny/dnscrawler/pkg/domain"
+	"github.com/auduny/dnscrawler/pkg/output"
+	"github.com/auduny/dnscrawler/pkg/provider"
+	"github.com/auduny/dnscrawler/pkg/whois"
 
 	"github.com/spf13/cobra"
 )

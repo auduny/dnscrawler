@@ -1,4 +1,4 @@
-module dnscrawler
+module github.com/auduny/dnscrawler
 
 go 1.25.6
 

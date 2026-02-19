@@ -1,6 +1,6 @@
 package main
 
-import "dnscrawler/cmd"
+import "github.com/auduny/dnscrawler/cmd"
 
 func main() {
 	cmd.Execute()
